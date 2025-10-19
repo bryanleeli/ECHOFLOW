@@ -1,0 +1,176 @@
+{
+  "source": "/Users/liyi/IOSPROJECT/Echo/Echo/Views/ProgressView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Progress",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Overview",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Learning Activity",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "Vocabulary Mastery",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 173
+        }
+      },
+      {
+        "comment": "",
+        "key": "Achievements",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "Study Habits",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 228
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld / %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 350
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 452
+        }
+      },
+      {
+        "comment": "",
+        "key": "\"%@\"",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 500
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Word",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 565
+        }
+      },
+      {
+        "comment": "",
+        "key": "Word Details",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 546
+        }
+      },
+      {
+        "comment": "",
+        "key": "Category & Difficulty",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 555
+        }
+      },
+      {
+        "comment": "",
+        "key": "Word",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 547
+        }
+      },
+      {
+        "comment": "",
+        "key": "Definition",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 548
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pronunciation (optional)",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 550
+        }
+      },
+      {
+        "comment": "",
+        "key": "Example (optional)",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 551
+        }
+      },
+      {
+        "comment": "",
+        "key": "Category",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 556
+        }
+      },
+      {
+        "comment": "",
+        "key": "Difficulty",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 557
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 569
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 572
+        }
+      }
+    ]
+  },
+  "version": 1
+}

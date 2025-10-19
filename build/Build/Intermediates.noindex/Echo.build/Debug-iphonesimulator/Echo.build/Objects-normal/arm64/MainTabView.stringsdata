@@ -1,0 +1,32 @@
+{
+  "source": "/Users/liyi/IOSPROJECT/Echo/Echo/Views/MainTabView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Daily Wave",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Echo Challenge",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 34
+        }
+      }
+    ]
+  },
+  "version": 1
+}

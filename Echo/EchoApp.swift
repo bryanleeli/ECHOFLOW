@@ -1,6 +1,6 @@
 //
-//  EchoApp.swift
-//  Echo
+//  WordSparkApp.swift
+//  WordSpark
 //
 //  Created by 李毅 on 10/19/25.
 //
@@ -9,10 +9,12 @@ import SwiftUI
 import SwiftData
 
 @main
-struct EchoApp: App {
+struct WordSparkApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
-            Item.self,
+            WordItem.self,
+            VocabularySet.self,
+            LearningSession.self,
         ])
         let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
 
@@ -25,7 +27,7 @@ struct EchoApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
         }
         .modelContainer(sharedModelContainer)
     }

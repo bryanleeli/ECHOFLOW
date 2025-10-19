@@ -1,0 +1,72 @@
+{
+  "source": "/Users/liyi/IOSPROJECT/Echo/Echo/Views/DailyWaveView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Loading amazing words...",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 164
+        }
+      },
+      {
+        "comment": "",
+        "key": "不再出现",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 228
+        }
+      },
+      {
+        "comment": "",
+        "key": "/%@/",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 244
+        }
+      },
+      {
+        "comment": "",
+        "key": "例句",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 313
+        }
+      },
+      {
+        "comment": "",
+        "key": "常用替换词",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 363
+        }
+      },
+      {
+        "comment": "",
+        "key": "场景匹配",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 458
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld/4",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 464
+        }
+      },
+      {
+        "comment": "",
+        "key": "拖拽",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 592
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/liyi/IOSPROJECT/Echo/Echo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameDailyWaveBg1</string>
+			<key>relativePath</key>
+			<string>./daily_wave_bg_1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>dailyWaveBg1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/liyi/IOSPROJECT/Echo/Echo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameDailyWaveBg2</string>
+			<key>relativePath</key>
+			<string>./daily_wave_bg_2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>dailyWaveBg2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/liyi/IOSPROJECT/Echo/Echo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameDailyWaveBg3</string>
+			<key>relativePath</key>
+			<string>./daily_wave_bg_3.imageset</string>
+			<key>swiftSymbol</key>
+			<string>dailyWaveBg3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/liyi/IOSPROJECT/Echo/Echo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameDailyWaveBg4</string>
+			<key>relativePath</key>
+			<string>./daily_wave_bg_4.imageset</string>
+			<key>swiftSymbol</key>
+			<string>dailyWaveBg4</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/liyi/IOSPROJECT/Echo/Echo/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameDailyWaveBg5</string>
+			<key>relativePath</key>
+			<string>./daily_wave_bg_5.imageset</string>
+			<key>swiftSymbol</key>
+			<string>dailyWaveBg5</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

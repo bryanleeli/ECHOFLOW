@@ -1,0 +1,120 @@
+{
+  "source": "/Users/liyi/IOSPROJECT/Echo/Echo/Views/HomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "WordSpark",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome back!",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Let's learn something new today",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Word of the Day",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "\"%@\"",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "No word for today",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add some words to get started",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Progress",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quick Actions",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 172
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Vocabulary Sets",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 218
+        }
+      },
+      {
+        "comment": "",
+        "key": "See All",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 222
+        }
+      },
+      {
+        "comment": "",
+        "key": "No vocabulary sets yet",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create your first vocabulary set to get started",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 236
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld words",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 348
+        }
+      }
+    ]
+  },
+  "version": 1
+}

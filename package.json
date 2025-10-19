@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "figma-mcp-pro": "^3.49.0",
+    "ws": "^8.18.3"
+  }
+}

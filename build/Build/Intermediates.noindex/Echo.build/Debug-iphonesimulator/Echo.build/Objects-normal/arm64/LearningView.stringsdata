@@ -1,0 +1,240 @@
+{
+  "source": "/Users/liyi/IOSPROJECT/Echo/Echo/Views/LearningView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Learn",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose Learning Mode",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select Vocabulary Set",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Vocabulary Sets",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create a vocabulary set first",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Learning",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "Daily Goals",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld words",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 249
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld/%lld %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 296
+        }
+      },
+      {
+        "comment": "",
+        "key": "Exit",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 362
+        }
+      },
+      {
+        "comment": "",
+        "key": "Previous",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 376
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 386
+        }
+      },
+      {
+        "comment": "",
+        "key": "\"%@\"",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 427
+        }
+      },
+      {
+        "comment": "",
+        "key": "Progress",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 459
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld of %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 463
+        }
+      },
+      {
+        "comment": "",
+        "key": "Session Complete",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 503
+        }
+      },
+      {
+        "comment": "",
+        "key": "Learning Completed!",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 486
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 496
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quiz Mode",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 538
+        }
+      },
+      {
+        "comment": "",
+        "key": "What is the definition of:",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 542
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quiz options coming soon...",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 552
+        }
+      },
+      {
+        "comment": "",
+        "key": "Practice Mode",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 565
+        }
+      },
+      {
+        "comment": "",
+        "key": "Write the definition of:",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 569
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type the definition here...",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 578
+        }
+      },
+      {
+        "comment": "",
+        "key": "Check Answer",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 582
+        }
+      },
+      {
+        "comment": "",
+        "key": "Review Mode",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 596
+        }
+      },
+      {
+        "comment": "",
+        "key": "\"%@\"",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 616
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not Learned",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 624
+        }
+      },
+      {
+        "comment": "",
+        "key": "Learned",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 629
+        }
+      }
+    ]
+  },
+  "version": 1
+}

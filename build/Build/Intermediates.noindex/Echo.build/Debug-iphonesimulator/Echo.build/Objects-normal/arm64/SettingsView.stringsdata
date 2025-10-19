@@ -1,0 +1,40 @@
+{
+  "source": "/Users/liyi/IOSPROJECT/Echo/Echo/Views/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "提示",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "确定",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "设置",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 98
+        }
+      }
+    ]
+  },
+  "version": 1
+}

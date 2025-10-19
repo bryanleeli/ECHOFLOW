@@ -1,0 +1,199 @@
+{
+  "" : {
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Echo-primary.dia",
+    "emit-module-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Echo-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Echo-primary-emit-module.dia",
+    "pch" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Echo-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Echo-primary.swiftdeps"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/EchoApp.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoApp.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoApp.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoApp.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoApp.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoApp.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoApp.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoApp.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoApp~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Item.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Models/DailyLearningPlan.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyLearningPlan.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyLearningPlan.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyLearningPlan.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyLearningPlan.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyLearningPlan.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyLearningPlan.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyLearningPlan.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyLearningPlan~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Models/DatabaseModels.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseModels.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseModels.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseModels.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseModels.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseModels.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseModels.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseModels.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseModels~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Models/WordItem.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordItem.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordItem.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordItem.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordItem.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordItem.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordItem.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordItem.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordItem~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Services/DatabaseService.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseService.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseService.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseService.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseService.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseService.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseService.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseService.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DatabaseService~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Services/UserInitializationService.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/UserInitializationService.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/UserInitializationService.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/UserInitializationService.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/UserInitializationService.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/UserInitializationService.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/UserInitializationService.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/UserInitializationService.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/UserInitializationService~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Views/DailyWaveView.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyWaveView.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyWaveView.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyWaveView.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyWaveView.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyWaveView.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyWaveView.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyWaveView.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/DailyWaveView~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Views/EchoChallengeView.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoChallengeView.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoChallengeView.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoChallengeView.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoChallengeView.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoChallengeView.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoChallengeView.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoChallengeView.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/EchoChallengeView~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Views/HomeView.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Views/LearningView.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LearningView.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LearningView.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LearningView.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LearningView.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LearningView.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LearningView.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LearningView.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LearningView~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Views/LoginView.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LoginView.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LoginView.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LoginView.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LoginView.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LoginView.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/LoginView~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Views/MainTabView.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/MainTabView.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/MainTabView.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/MainTabView.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/MainTabView.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/MainTabView.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/MainTabView.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/MainTabView.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/MainTabView~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Views/ProfileView.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Views/ProgressView.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProgressView.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProgressView.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProgressView.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProgressView.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProgressView.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProgressView.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProgressView.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/ProgressView~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Views/SettingsView.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Views/VocabularyView.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/VocabularyView.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/VocabularyView.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/VocabularyView.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/VocabularyView.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/VocabularyView.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/VocabularyView.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/VocabularyView.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/VocabularyView~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/Echo/Views/WordDetailView.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordDetailView.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordDetailView.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordDetailView.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordDetailView.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordDetailView.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordDetailView.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordDetailView.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/WordDetailView~partial.swiftmodule"
+  },
+  "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/liyi/IOSPROJECT/Echo/build/Build/Intermediates.noindex/Echo.build/Debug-iphonesimulator/Echo.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

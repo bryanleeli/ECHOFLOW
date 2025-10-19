@@ -1,0 +1,40 @@
+{
+  "source": "/Users/liyi/IOSPROJECT/Echo/Echo/Views/WordDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "n.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "周末",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "v.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "度周末",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 89
+        }
+      }
+    ]
+  },
+  "version": 1
+}
